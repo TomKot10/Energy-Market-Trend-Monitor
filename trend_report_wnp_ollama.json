@@ -1,0 +1,82 @@
+{
+  "articles": [
+    {
+      "title": "Naszym lotniskom grozi paraliż po włosku? Orlen jest w nadzwyczajnej sytuacji",
+      "source": "WNP",
+      "url": "https://www.wnp.pl/energia/naszym-lotniskom-nie-grozi-wloski-scenariusz-orlen-ma-istotny-atut,1053117.html",
+      "published_at": "2026-04-18T17:30:16.291988+00:00",
+      "keywords": [
+        "Orlen",
+        "lotniska we Włoszech",
+        "problem z dostawą paliwa"
+      ],
+      "sentiment": "neutral",
+      "main_topic": "Lotniska we Włoszech i problem z dostawą paliwa",
+      "summary": "Organizacja ACI Europe ostrzega przed paraliżem lotnisków we Włoszech, gdy dostawca paliwa miał problem z dostępnością paliwa. Andrzej Kobielski odzywa się do tej sytuacji, stwierdzając, że nie ma zagrożenia dla polskich lotnisk."
+    },
+    {
+      "title": "Bez niej energetyka jądrowa w Polsce będzie opóźniony. I to o lata",
+      "source": "WNP",
+      "url": "https://www.wnp.pl/energia/bez-niej-polski-atom-bedzie-opozniony-i-to-o-lata,1052983.html",
+      "published_at": "2026-04-18T17:30:17.625626+00:00",
+      "keywords": [
+        "energetyka jądrowa",
+        "projekt nowelizacji ustawy",
+        "PEJ"
+      ],
+      "sentiment": "positive",
+      "main_topic": "Projekt nowelizacji ustawy o energetyce jądrowej w Polsce",
+      "summary": "Rząd przyjął projekt nowelizacji ustawy o inwestycjach w energię jądrową, który ma skrócić czas realizacji projektu nawet o 2 lata. Prezes PEJ podkreśla, że bez tego projektu utrzymać harmonogram jest trudno."
+    },
+    {
+      "title": "Polskie złoża mogą skrywać wielkie bogactwo. Rozpoczynamy poszukiwania",
+      "source": "WNP",
+      "url": "https://www.wnp.pl/energia/polskie-zloza-wegla-moga-skrywac-wielkie-bogactwo-rozpoczynamy-poszukiwania,1052637.html",
+      "published_at": "2026-04-18T17:30:18.925437+00:00",
+      "keywords": [
+        "złoża węgla",
+        "bogactwo",
+        "poszukiwania"
+      ],
+      "sentiment": "positive",
+      "main_topic": "Znalezienie nowych złoż węgla w Polsce",
+      "summary": "Profesor habilitowany Krysztof Szamałek podkreśla znaczenie postępu technologicznego we współczesnej geologii i górnictwie, co powoduje wzrost zasobów. Miejsca z dużym bogactwem węgla są już znane."
+    },
+    {
+      "title": "Doba blackoutu to miliardy złotych strat dla gospodarki. Potrzebny nowy tlen dla bloków węglowych",
+      "source": "WNP",
+      "url": "https://www.wnp.pl/energia/co-z-blokami-weglowymi-po-2028-roku-prezes-pge-zblizamy-nasze-stanowiska-z-operatorem-sieci,1053153.html",
+      "published_at": "2026-04-18T17:30:20.156128+00:00",
+      "keywords": [
+        "bloki węglowe",
+        "blackout",
+        "straty gospodarcze"
+      ],
+      "sentiment": "negative",
+      "main_topic": "Straty gospodarcze z powodu bloków węglowych po 2028 roku",
+      "summary": "Prezes PGE podkreśla, że najstarsze węglowe bloki energetyczne są już wycofywane z rynku mocy. Dariusz Lubera stwierdza, że towarzyszące te straty kosztują gospodarkę około 40 mld zł."
+    },
+    {
+      "title": "Polska coraz bliżej małego atomu. Tu chcą zbudować SMR-y, podpisano ważną umowę",
+      "source": "WNP",
+      "url": "https://www.wnp.pl/energia/polska-coraz-blizej-malego-atomu-arp-i-osge-podpisaly-wazna-umowe-tu-chca-zbudowac-smr-y,1053111.html",
+      "published_at": "2026-04-18T17:30:21.440937+00:00",
+      "keywords": [
+        "mały atom",
+        "SMR",
+        "ARP i OSGE"
+      ],
+      "sentiment": "positive",
+      "main_topic": "Projektowanie i budowa małych reaktorów modułowych w Polsce",
+      "summary": "ARP i OSGE podpisali umowę na budowę elektrowni z reaktorem BWRX-300, które będzie inwestowane przez ARP jako spółkę celową. Projekt ma skojarzyć się z wehikułem inwestycyjnym spółki celowej Stalowa Wola."
+    }
+  ],
+  "source": "WNP",
+  "section_url": "https://www.wnp.pl/energia/",
+  "scrape_timestamp": "2026-04-18T17:31:10.565680+00:00",
+  "cross_article_trend": {
+    "trend_name": "przyspieszenie transformacji energetycznej",
+    "explanation": "W analizowanych artykułach widać wyraźny nacisk na rozwój projektów jądrowych i ułatwienia dla nowych inwestycji w tym obszarze. Jednocześnie sektor nadal mierzy się z wyzwaniami dotyczącymi bezpieczeństwa dostaw i przebudowy miksu energetycznego.",
+    "business_implication": "Firma energetyczna powinna przyspieszyć budowę portfela inwestycji w nowe źródła, szczególnie projekty jądrowe, oraz łączyć je z analizą bezpieczeństwa systemu i zmian regulacyjnych."
+  }
+}
